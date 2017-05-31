@@ -1,0 +1,15 @@
+{
+  "name": "svg-optimizer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "svgo splash.svg splash.min.svg"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "svgo": "^0.7.2"
+  }
+}
